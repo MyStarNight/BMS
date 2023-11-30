@@ -17,9 +17,9 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 ## some papers
 
-> 
+> Deep Reinforcement Learning for Smart Home Energy Management
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDY4Nzc1LC0xNDAxNDk5Mzg4LDgzOD
-I4Mzg1NiwtMTAwMjc0NjA4OSwtMzExMzg5NDI2LC0xNzg5ODA1
-NDE5LDExNDA3OTc4OTVdfQ==
+eyJoaXN0b3J5IjpbMTc5OTQ4MTIxNiwxMDg0Njg3NzUsLTE0MD
+E0OTkzODgsODM4MjgzODU2LC0xMDAyNzQ2MDg5LC0zMTEzODk0
+MjYsLTE3ODk4MDU0MTksMTE0MDc5Nzg5NV19
 -->
