@@ -19,9 +19,9 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 > Deep Reinforcement Learning for Smart Home Energy Management
 
-在本文中，介绍了一种ESS（Energy Storage System）的数学模型，但是缺点在于它只能实现
+在本文中，介绍了一种ESS（Energy Storage System）的数学模型，但是缺点在于它不能实现同时充放电。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODI1MTA4MywxMDg0Njg3NzUsLTE0MD
-E0OTkzODgsODM4MjgzODU2LC0xMDAyNzQ2MDg5LC0zMTEzODk0
-MjYsLTE3ODk4MDU0MTksMTE0MDc5Nzg5NV19
+eyJoaXN0b3J5IjpbMTM0ODM4Njk2LDEwODQ2ODc3NSwtMTQwMT
+Q5OTM4OCw4MzgyODM4NTYsLTEwMDI3NDYwODksLTMxMTM4OTQy
+NiwtMTc4OTgwNTQxOSwxMTQwNzk3ODk1XX0=
 -->
