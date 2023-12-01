@@ -2,7 +2,10 @@
 
 # Home Energy Management System
 
-电池采用的单位一般为（kWh）
+**Point：**
+
+1. 电池采用的单位一般为kWh
+2. ESS系统的采用一般来说不会在策略上考虑很多；ta
 
 ## business cases
 
@@ -12,7 +15,7 @@
 | Tesla Powershell +| 13.5 |备用电源；在停电期间依靠光伏充电；并且可以堆叠|
 | Generac PWRcell| 36|备用电源；太阳能电池板|
 |Panasonic Evervolt| 102|直流耦合电池系统；包括可编程控制器；太阳能电池板|
-|Enphase IQ Battery 10T| 10.08|适合大多数家庭；为xia
+|Enphase IQ Battery 10T| 10.08|适合大多数家庭；为小型家庭提供的；自动远程更新|
 
 
 
@@ -37,6 +40,6 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA0OTU2MDAsMTcyOTgwMjA0MiwtND
+eyJoaXN0b3J5IjpbLTEzOTAyNTA0MzksMTcyOTgwMjA0MiwtND
 YyNjI0MTg0XX0=
 -->
