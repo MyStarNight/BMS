@@ -2,7 +2,7 @@
 
 # Home Energy Management System
 
-电池采用的单位yiban
+电池采用的单位一般为（kWh）
 
 ## business cases
 [2023 年最佳家用电池和备用系统 |ZDNET公司](https://www.zdnet.com/home-and-office/energy/best-home-battery/) 
@@ -29,8 +29,8 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcwNDMxNjIsMTM0ODM4Njk2LDEwOD
-Q2ODc3NSwtMTQwMTQ5OTM4OCw4MzgyODM4NTYsLTEwMDI3NDYw
-ODksLTMxMTM4OTQyNiwtMTc4OTgwNTQxOSwxMTQwNzk3ODk1XX
-0=
+eyJoaXN0b3J5IjpbLTQ2MjYyNDE4NCwxMzQ4Mzg2OTYsMTA4ND
+Y4Nzc1LC0xNDAxNDk5Mzg4LDgzODI4Mzg1NiwtMTAwMjc0NjA4
+OSwtMzExMzg5NDI2LC0xNzg5ODA1NDE5LDExNDA3OTc4OTVdfQ
+==
 -->
