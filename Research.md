@@ -2,6 +2,12 @@
 
 # Home Energy Management System
 
+电池采用的单位yiban
+
+## business cases
+[2023 年最佳家用电池和备用系统 |ZDNET公司](https://www.zdnet.com/home-and-office/energy/best-home-battery/) 
+
+
 # Battery Charging and Discharging Model
 
 ## develop tools
@@ -21,9 +27,10 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 在本文中，介绍了一种ESS（Energy Storage System）的数学模型，但是缺点在于它不能实现同时充放电。
 
-## 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMjI5Nzc2LDEzNDgzODY5NiwxMDg0Nj
-g3NzUsLTE0MDE0OTkzODgsODM4MjgzODU2LC0xMDAyNzQ2MDg5
-LC0zMTEzODk0MjYsLTE3ODk4MDU0MTksMTE0MDc5Nzg5NV19
+eyJoaXN0b3J5IjpbLTIxMzcwNDMxNjIsMTM0ODM4Njk2LDEwOD
+Q2ODc3NSwtMTQwMTQ5OTM4OCw4MzgyODM4NTYsLTEwMDI3NDYw
+ODksLTMxMTM4OTQyNiwtMTc4OTgwNTQxOSwxMTQwNzk3ODk1XX
+0=
 -->
