@@ -7,6 +7,9 @@
 ## business cases
 
 [2023 年最佳家用电池和备用系统 |ZDNET公司](https://www.zdnet.com/home-and-office/energy/best-home-battery/) ：主要介绍了四种电池能源供应方案
+|Company| Notes  |
+|--|--|
+|  |  |
 
 
 # Battery Charging and Discharging Model
@@ -30,5 +33,6 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTgwMjA0MiwtNDYyNjI0MTg0XX0=
+eyJoaXN0b3J5IjpbLTEzOTcyMTY3OTIsMTcyOTgwMjA0MiwtND
+YyNjI0MTg0XX0=
 -->
