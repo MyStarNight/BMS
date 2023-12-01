@@ -5,7 +5,8 @@
 **Point：**
 
 1. 电池采用的单位一般为kWh
-2. ESS系统的采用一般来说不会在策略上考虑很多；ta
+2. ESS系统的采用一般来说不会在策略上考虑很多；一般是利用新能源（太阳能等）去存储电量作备用电源
+3. 对于想利用EMS去进行省钱，一般会对家电的使用时间、策略上进行调整
 
 ## business cases
 
@@ -40,6 +41,6 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTAyNTA0MzksMTcyOTgwMjA0MiwtND
-YyNjI0MTg0XX0=
+eyJoaXN0b3J5IjpbNTgxNDMxMDAwLDE3Mjk4MDIwNDIsLTQ2Mj
+YyNDE4NF19
 -->
