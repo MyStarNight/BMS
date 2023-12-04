@@ -9,9 +9,10 @@
 <img src="https://img-blog.csdnimg.cn/direct/e9248ed0944749a2b8e01cda444efb90.png" width="50%">
 
 # Battery capacity
-| 5 | 1 | 1
-|--|--|--|
-|  4|  5| D
+|  |  |
+|--|--|
+|  |  |
+
 
 
 
@@ -19,6 +20,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwODMxMzgsLTEyNDQxMjUxOTksNTU2Nj
-Q3NTg4XX0=
+eyJoaXN0b3J5IjpbMTQ5MDQ2MTc0NCwtMTI0NDEyNTE5OSw1NT
+Y2NDc1ODhdfQ==
 -->
