@@ -1,7 +1,7 @@
 # Research
 # Battery Charging  Model
 
-
+## paper
 
 > A_Review_of_Charging_Algorithms_for_Nickel_and_Lithium_Battery_Chargers
 
@@ -11,5 +11,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjIwNjY4MF19
+eyJoaXN0b3J5IjpbNTU2NjQ3NTg4XX0=
 -->
