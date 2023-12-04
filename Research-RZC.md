@@ -14,7 +14,7 @@
 
 ![45454545](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png)
 
-
+![enter image description here](https://img-blog.csdnimg.cn/direct/8702c2bd0328424eb2d28f244d4988ac.png)
 # Battery capacity
 | 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
 |--|--|--|
@@ -28,6 +28,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI1NzQyMyw3MjAyODAxMzcsLTE5Mz
+eyJoaXN0b3J5IjpbMTc3NzM4MDg3MCw3MjAyODAxMzcsLTE5Mz
 U2NDkwODgsLTEyNDQxMjUxOTksNTU2NjQ3NTg4XX0=
 -->
