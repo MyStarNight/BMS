@@ -14,8 +14,7 @@
 
 ![](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png ) 电路模型
 
-
-![](https://img-blog.csdnimg.cn/direct/8702c2bd0328424eb2d28f244d4988ac.png ) 电路参数公式
+<img src="https://img-blog.csdnimg.cn/direct/8702c2bd0328424eb2d28f244d4988ac.png" width="50%"> 电路参数公式
 # Battery capacity
 | 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
 |--|--|--|
@@ -29,7 +28,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MDc3MzkwLDUzNjEwMTU5Niw3MjAyOD
-AxMzcsLTE5MzU2NDkwODgsLTEyNDQxMjUxOTksNTU2NjQ3NTg4
-XX0=
+eyJoaXN0b3J5IjpbMTEwODQxNzAwOSw1MzYxMDE1OTYsNzIwMj
+gwMTM3LC0xOTM1NjQ5MDg4LC0xMjQ0MTI1MTk5LDU1NjY0NzU4
+OF19
 -->
