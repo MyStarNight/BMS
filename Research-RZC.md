@@ -11,6 +11,7 @@
 >锂电池充放电模型及关键参数影响研究_刘娇娇
 
 文章给出了锂电池等效电路模型以及放电参数的计算公式
+
 ![锂电池等效电路模型](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png)
 
 # Battery capacity
@@ -26,6 +27,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgyOTY0NzEsNzIwMjgwMTM3LC0xOT
-M1NjQ5MDg4LC0xMjQ0MTI1MTk5LDU1NjY0NzU4OF19
+eyJoaXN0b3J5IjpbLTE4OTk0MDYxMyw3MjAyODAxMzcsLTE5Mz
+U2NDkwODgsLTEyNDQxMjUxOTksNTU2NjQ3NTg4XX0=
 -->
