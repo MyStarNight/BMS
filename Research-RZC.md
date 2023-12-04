@@ -16,7 +16,7 @@
 
 <img src="https://img-blog.csdnimg.cn/direct/8702c2bd0328424eb2d28f244d4988ac.png" width="50%"> 电路参数公式
 
-式中：E0 为锂电池内电势，V；K 为锂电池极化电压，V；Cmax 为 锂电池的最大容量，Ah；Qe 为锂电池充放电量，Ah；A 为指数区电压振幅，V；B为指数区时间常数的倒数；Efull 为电池满充 电压，V；Eexp 为锂电池放电曲线中指数区的截止电压，V；通常锂电池厂家会给定电池的额定电压 Erated ，按照锂电池的特性， Erated=0.929 5Eexp ；Qexp 为指数区域的电池容量，Ah；Enom 为放电 截 止 电 压 ，V；Qnom 为锂电池放电曲线中线性区的电池容量， Ah；R 为锂电池内电阻，Ω；Inom 为锂电池额定放电电流，A；锂 电池的额定放电电流和最大容量呈线性关系，Inom=0.434 783 Cmax ；IB 是流过锂电池的电流，单位为 A；h 是锂 电池的充放电效率，根据经验可0.995~0.998。
+式中：E0 为锂电池内电势，V；K 为锂电池极化电压，V；Cmax 为 锂电池的最大容量，Ah；Qe 为锂电池充放电量，Ah；A 为指数区电压振幅，V；B为指数区时间常数的倒数；Efull 为电池满充 电压，V；Eexp 为锂电池放电曲线中指数区的截止电压，V；通常锂电池厂家会给定电池的额定电压 Erated ，按照锂电池的特性， Erated=0.929 5Eexp ；Qexp 为指数区域的电池容量，Ah；Enom 为放电 截 止 电 压 ，V；Qnom 为锂电池放电曲线中线性区的电池容量， Ah；R 为锂电池内电阻，Ω；Inom 为锂电池额定放电电流，A；锂 电池的额定放电电流和最大容量呈线性关系，Inom=0.434 783 Cmax ；IB 是流过锂电池的电流，单位为 A；h 是锂电池的充放电效率，根据经验可0.995~0.998。
 # Battery capacity
 | 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
 |--|--|--|
@@ -30,7 +30,7 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY1NTk3MTYsMTEwODQxNzAwOSw1Mz
-YxMDE1OTYsNzIwMjgwMTM3LC0xOTM1NjQ5MDg4LC0xMjQ0MTI1
-MTk5LDU1NjY0NzU4OF19
+eyJoaXN0b3J5IjpbLTE1NTI3MjcwMCwxMTA4NDE3MDA5LDUzNj
+EwMTU5Niw3MjAyODAxMzcsLTE5MzU2NDkwODgsLTEyNDQxMjUx
+OTksNTU2NjQ3NTg4XX0=
 -->
