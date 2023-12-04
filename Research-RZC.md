@@ -9,10 +9,10 @@
 <img src="https://img-blog.csdnimg.cn/direct/e9248ed0944749a2b8e01cda444efb90.png" width="50%">
 
 # Battery capacity
-|  |  |
-|--|--|
-|  |  |
-
+| 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
+|--|--|--|
+| 瑞典 | 13085 |73
+参考网址：https://www.indexmundi.com/map/?v=81000&r=eu&l=zh
 
 
 
@@ -20,6 +20,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDQ2MTc0NCwtMTI0NDEyNTE5OSw1NT
+eyJoaXN0b3J5IjpbMTc4NTU4NzA1NCwtMTI0NDEyNTE5OSw1NT
 Y2NDc1ODhdfQ==
 -->
