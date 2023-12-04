@@ -12,7 +12,7 @@
 
 文章给出了锂电池等效电路模型以及放电参数的计算公式
 
-![45454545](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png)
+![45454545](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png "sdsd")
 
 ![enter image description here](https://img-blog.csdnimg.cn/direct/8702c2bd0328424eb2d28f244d4988ac.png)
 # Battery capacity
@@ -28,6 +28,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzM4MDg3MCw3MjAyODAxMzcsLTE5Mz
-U2NDkwODgsLTEyNDQxMjUxOTksNTU2NjQ3NTg4XX0=
+eyJoaXN0b3J5IjpbNTM2MTAxNTk2LDcyMDI4MDEzNywtMTkzNT
+Y0OTA4OCwtMTI0NDEyNTE5OSw1NTY2NDc1ODhdfQ==
 -->
