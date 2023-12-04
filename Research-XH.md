@@ -39,3 +39,7 @@ Mathworks所提供的[Battery](https://www.mathworks.com/help/sps/powersys/ref/b
 
 在本文中，介绍了一种ESS（Energy Storage System）的数学模型，但是缺点在于它不能实现同时充放电。
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTgxNDMxMDAwXX0=
+-->
