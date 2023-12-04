@@ -12,7 +12,7 @@
 
 文章给出了锂电池等效电路模型以及放电参数的计算公式
 
-![锂电池等效电路模型](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png)
+![锂电池等效电路模型54545](https://img-blog.csdnimg.cn/direct/78ae13ef29644619bd6c86229f890d2d.png)
 
 # Battery capacity
 | 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
@@ -27,6 +27,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk0MDYxMyw3MjAyODAxMzcsLTE5Mz
+eyJoaXN0b3J5IjpbMTY5MzM4MzA0MCw3MjAyODAxMzcsLTE5Mz
 U2NDkwODgsLTEyNDQxMjUxOTksNTU2NjQ3NTg4XX0=
 -->
