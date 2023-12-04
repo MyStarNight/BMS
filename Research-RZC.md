@@ -12,6 +12,7 @@
 | 地区 |  2020年居民人均年用电量（kw*h）|参考电池容量（kw*h），以年人均用电量除以180得到
 |--|--|--|
 | 瑞典 | 13085 |73
+
 参考网址：https://www.indexmundi.com/map/?v=81000&r=eu&l=zh
 
 
@@ -20,6 +21,6 @@
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTU4NzA1NCwtMTI0NDEyNTE5OSw1NT
-Y2NDc1ODhdfQ==
+eyJoaXN0b3J5IjpbLTE5MzU2NDkwODgsLTEyNDQxMjUxOTksNT
+U2NjQ3NTg4XX0=
 -->
