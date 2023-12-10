@@ -1,6 +1,6 @@
 # some reinforcement learning codes
 
-查找的主要目标方向为**deep reinforcement learning**;并且我们的主要目标为 Model  free reinforcement learning。
+查找的主要目标方向为**deep reinforcement learning**;并且我们的主要目标为 **Model -free reinforcement learning**。
 
 在这其中典型的算法代表如下：
 
@@ -16,6 +16,8 @@ DQN是一种基于Q-learning的深度强化学习算法，使用深度神经网�
 除了DQN，还有其他一些重要的离线学习算法，如Off-policy Policy Evaluation (OPE)，用于估计一个给定策略的性能。
 7. Soft Actor-Critic (SAC):
 SAC是一种基于最大熵理论的强化学习算法，旨在同时优化预期回报和策略熵，以鼓励探索和提高鲁棒性。
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MzQ0MTQwLC03NTQ4ODkyODBdfQ==
+eyJoaXN0b3J5IjpbMTY2NDIxMDc0MSwtNzU0ODg5MjgwXX0=
 -->
