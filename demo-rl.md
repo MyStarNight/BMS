@@ -17,7 +17,12 @@ DQN是一种基于Q-learning的深度强化学习算法，使用深度神经网�
 7. Soft Actor-Critic (SAC):
 SAC是一种基于最大熵理论的强化学习算法，旨在同时优化预期回报和策略熵，以鼓励探索和提高鲁棒性。
 
+## key words
 
+deep reinforcement learning(DRL)
+model-free reinforcement learning (MFRL)
+time series forecasting(
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDIxMDc0MSwtNzU0ODg5MjgwXX0=
+eyJoaXN0b3J5IjpbNTE3NzAwMDc1LDE2NjQyMTA3NDEsLTc1ND
+g4OTI4MF19
 -->
