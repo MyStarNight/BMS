@@ -25,8 +25,8 @@ time series forecasting(TRF)
 
 ## 调研疑惑
 
-怎么大家都用这个来打游戏呢？
+怎么大家都用RL来打游戏呢？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTY4NDU2Miw0MTE3ODQyOTgsMTY2ND
+eyJoaXN0b3J5IjpbMTAwNDA3MzgzMyw0MTE3ODQyOTgsMTY2ND
 IxMDc0MSwtNzU0ODg5MjgwXX0=
 -->
