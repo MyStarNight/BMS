@@ -22,7 +22,11 @@ SAC是一种基于最大熵理论的强化学习算法，旨在同时优化预�
 deep reinforcement learning(DRL)
 model-free reinforcement learning (MFRL)
 time series forecasting(TRF)
+
+## 调研疑惑
+
+怎么大家都用这个来打游戏呢？
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExNzg0Mjk4LDE2NjQyMTA3NDEsLTc1ND
-g4OTI4MF19
+eyJoaXN0b3J5IjpbMTUxMTY4NDU2Miw0MTE3ODQyOTgsMTY2ND
+IxMDc0MSwtNzU0ODg5MjgwXX0=
 -->
