@@ -26,7 +26,14 @@ time series forecasting(TRF)
 ## 调研疑惑
 
 怎么大家都用RL来打游戏呢？
+
+## repositories
+
+### **[street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai)**
+
+本项目基于深度强化学习训练了一个用于通关《街头霸王·二：冠军特别版》（Street Fighter II Special Champion Edition）关底 BOSS 的智能 AI 代理。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDA3MzgzMyw0MTE3ODQyOTgsMTY2ND
-IxMDc0MSwtNzU0ODg5MjgwXX0=
+eyJoaXN0b3J5IjpbNTExNDEwMDk3LDEwMDQwNzM4MzMsNDExNz
+g0Mjk4LDE2NjQyMTA3NDEsLTc1NDg4OTI4MF19
 -->
