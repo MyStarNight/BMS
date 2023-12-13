@@ -33,7 +33,8 @@ time series forecasting(TRF)
 
 本项目基于深度强化学习训练了一个用于通关《街头霸王·二：冠军特别版》（Street Fighter II Special Champion Edition）关底 BOSS 的智能 AI 代理。
 
+该智能代理完全基于游戏画面（RGB 像素值）进行决策，在该项目给定存档中最后一关的第一轮对局可以取得 100% 胜率（实际上出现了“过拟合”现象，详见[运行测试](https://zhuanlan.zhihu.com/p/623286329/edit#running-tests)部分的讨论）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTExNDEwMDk3LDEwMDQwNzM4MzMsNDExNz
-g0Mjk4LDE2NjQyMTA3NDEsLTc1NDg4OTI4MF19
+eyJoaXN0b3J5IjpbMTEzOTc0OTk4OSwxMDA0MDczODMzLDQxMT
+c4NDI5OCwxNjY0MjEwNzQxLC03NTQ4ODkyODBdfQ==
 -->
